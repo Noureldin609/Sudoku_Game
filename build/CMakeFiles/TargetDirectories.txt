@@ -1,0 +1,3 @@
+/mnt/c/Users/leno/Downloads/Nour eldin abdelhamid kamel samer SUDOKO PROJECT/build/CMakeFiles/SudokuProject.dir
+/mnt/c/Users/leno/Downloads/Nour eldin abdelhamid kamel samer SUDOKO PROJECT/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/leno/Downloads/Nour eldin abdelhamid kamel samer SUDOKO PROJECT/build/CMakeFiles/rebuild_cache.dir
